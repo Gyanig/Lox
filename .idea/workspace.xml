@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94ea58e9-df32-4ff0-99de-b576e372b76d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lox/AstPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lox/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lox/Lox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lox/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lox/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lox/TokenType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tool/GenerateAst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craftinginterpreters/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craftinginterpreters/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craftinginterpreters/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craftinginterpreters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craftinginterpreters/craftinginterpreters.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/a-map-of-the-territory.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/a-map-of-the-territory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/a-virtual-machine.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/a-virtual-machine.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/calls-and-functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/calls-and-functions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/chunks-of-bytecode.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/chunks-of-bytecode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/classes-and-instances.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/classes-and-instances.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/classes.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/classes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/closures.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/closures.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/compiling-expressions.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/compiling-expressions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/control-flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/control-flow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/evaluating-expressions.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/evaluating-expressions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/functions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/garbage-collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/garbage-collection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/global-variables.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/global-variables.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/inheritance.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/inheritance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/jumping-back-and-forth.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/jumping-back-and-forth.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/local-variables.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/local-variables.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/methods-and-initializers.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/methods-and-initializers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/optimization.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/optimization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/parsing-expressions.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/parsing-expressions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/representing-code.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/representing-code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/resolving-and-binding.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/resolving-and-binding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/scanning-on-demand.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/scanning-on-demand.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/scanning.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/scanning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/statements-and-state.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/statements-and-state.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/strings.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/strings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/superclasses.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/superclasses.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/the-lox-language.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/the-lox-language.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/book/types-of-values.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/book/types-of-values.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter06_parsing.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter06_parsing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter09_control.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter09_control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter10_functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter10_functions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter11_resolving/chapter11_resolving.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter11_resolving/chapter11_resolving.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter12_classes.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter12_classes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter13_inheritance/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter13_inheritance/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter13_inheritance/3.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter13_inheritance/3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter16_scanning.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter16_scanning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter21_global.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter21_global.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter23_jumping/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter23_jumping/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter25_closures/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter25_closures/2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter29_superclasses/3.md" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/answers/chapter29_superclasses/3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/note/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/note/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/a-bytecode-virtual-machine.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/a-bytecode-virtual-machine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/a-map-of-the-territory.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/a-map-of-the-territory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/a-tree-walk-interpreter.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/a-tree-walk-interpreter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/a-virtual-machine.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/a-virtual-machine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/appendix-i.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/appendix-i.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/appendix-ii.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/appendix-ii.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/backmatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/backmatter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/calls-and-functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/calls-and-functions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/chunks-of-bytecode.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/chunks-of-bytecode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/classes-and-instances.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/classes-and-instances.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/closures.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/closures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/compiling-expressions.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/compiling-expressions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/contents.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/contents.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/control-flow.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/control-flow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/evaluating-expressions.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/evaluating-expressions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/functions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/garbage-collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/garbage-collection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/global-variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/global-variables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/hash-tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/hash-tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/inheritance.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/inheritance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/jumping-back-and-forth.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/jumping-back-and-forth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/local-variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/local-variables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/methods-and-initializers.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/methods-and-initializers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/optimization.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/optimization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/parsing-expressions.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/parsing-expressions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/representing-code.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/representing-code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/resolving-and-binding.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/resolving-and-binding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/scanning-on-demand.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/scanning-on-demand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/scanning.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/scanning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/statements-and-state.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/statements-and-state.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/strings.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/strings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/superclasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/superclasses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/the-lox-language.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/the-lox-language.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/types-of-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/types-of-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/site/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/site/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/tool/bin/benchmark.dart" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/tool/bin/benchmark.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/tool/bin/test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/tool/bin/test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/tool/lib/src/split_chapter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/tool/lib/src/split_chapter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/tool/lib/src/syntax/grammar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/tool/lib/src/syntax/grammar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craftinginterpreters/tool/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/craftinginterpreters/tool/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1iKQ3onzNl5seQLfMB5i4W9Ju0S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KIIT\Documents\GitHub\Local-Repo\Interpreter\Lox\craftinginterpreters\book" />
+      <recent name="C:\Users\KIIT\Documents\GitHub\Local-Repo\Interpreter\Lox\src\com\company\Lox" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AstPrinter">
+    <configuration name="AstPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lox.AstPrinter" />
+      <module name="Lox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateAst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.tool.GenerateAst" />
+      <module name="Lox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateAst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tool.GenerateAst" />
+      <module name="Lox" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\KIIT\Documents\GitHub\Local-Repo\Interpreter\Lox\src\Lox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lox.Lox" />
+      <module name="Lox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GenerateAst" />
+      <item itemvalue="Application.Lox" />
+      <item itemvalue="Application.AstPrinter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AstPrinter" />
+        <item itemvalue="Application.Lox" />
+        <item itemvalue="Application.GenerateAst" />
+        <item itemvalue="Application.GenerateAst" />
+        <item itemvalue="Application.Lox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94ea58e9-df32-4ff0-99de-b576e372b76d" name="Default Changelist" comment="" />
+      <created>1601653609124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601653609124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1602597233622">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1602597233622" />
+    <state x="201" y="0" width="946" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602600143705">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="201" y="0" width="946" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1602600143705" />
+    <state x="232" y="57" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1475.829@0.0.1475.829" timestamp="1601824287497" />
+    <state x="455" y="78" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602600134539">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="455" y="78" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.720@0.0.1280.720" timestamp="1602600134539" />
+    <state x="507" y="204" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601824283014">
+      <screen x="0" y="0" width="1475" height="829" />
+    </state>
+    <state x="507" y="204" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1475.829@0.0.1475.829" timestamp="1601824283014" />
+    <state x="174" y="254" width="432" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602602488174">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="174" y="254" width="432" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1602602488174" />
+    <state x="122" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602602089870">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="122" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1602602089870" />
+    <state x="259" y="110" key="EnvironmentVariablesDialog" timestamp="1602599567882">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="259" y="110" key="EnvironmentVariablesDialog/0.0.1280.720@0.0.1280.720" timestamp="1602599567882" />
+    <state width="731" height="177" key="GridCell.Tab.0.bottom" timestamp="1602604270559">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="731" height="177" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1602604270559" />
+    <state width="829" height="214" key="GridCell.Tab.0.bottom/0.0.1475.829@0.0.1475.829" timestamp="1601836821962" />
+    <state width="731" height="177" key="GridCell.Tab.0.center" timestamp="1602604270559">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="731" height="177" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1602604270559" />
+    <state width="829" height="214" key="GridCell.Tab.0.center/0.0.1475.829@0.0.1475.829" timestamp="1601836821961" />
+    <state width="731" height="177" key="GridCell.Tab.0.left" timestamp="1602604270558">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="731" height="177" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1602604270558" />
+    <state width="829" height="214" key="GridCell.Tab.0.left/0.0.1475.829@0.0.1475.829" timestamp="1601836821961" />
+    <state width="731" height="177" key="GridCell.Tab.0.right" timestamp="1602604270559">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="731" height="177" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1602604270559" />
+    <state width="829" height="214" key="GridCell.Tab.0.right/0.0.1475.829@0.0.1475.829" timestamp="1601836821962" />
+    <state width="729" height="216" key="GridCell.Tab.1.bottom" timestamp="1602599013399">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="729" height="216" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1602599013399" />
+    <state width="729" height="216" key="GridCell.Tab.1.center" timestamp="1602599013399">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="729" height="216" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1602599013399" />
+    <state width="729" height="216" key="GridCell.Tab.1.left" timestamp="1602599013399">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="729" height="216" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1602599013399" />
+    <state width="729" height="216" key="GridCell.Tab.1.right" timestamp="1602599013399">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="729" height="216" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1602599013399" />
+    <state x="126" y="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1602598352715">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="126" y="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.720@0.0.1280.720" timestamp="1602598352715" />
+    <state x="54" y="41" key="search.everywhere.popup" timestamp="1602510277940">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="54" y="41" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1602510277940" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lox$GenerateAst__1_.ic" NAME="GenerateAst (1) Coverage Results" MODIFIED="1602598990374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tool.*</FILTER>
+    </SUITE>
+  </component>
+</project>
