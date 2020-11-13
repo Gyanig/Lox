@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Lox
-Interpreter to complete
-=======
 # Learning to implement my C/C++ knowledge 
 
 ### building an interpreter
@@ -300,11 +296,4 @@ that does not discard those? What would it be useful for?
        
        1 2 + 4 3 - *
        Define a visitor class for our syntax tree classes that takes an 
-       expression, converts it to RPN, and returns the resulting string.
-   
-     
-<<<<<<< HEAD
->>>>>>> 495c8fc... Updating Interpreter file
-=======
->>>>>>> 495c8fc99a8b948a46540051493a3562e3fb2935
->>>>>>> ca0bc71cfcd00e7219619a5a3e41eee71a5653c4
+       expression, converts it to RPN, and returns the resulting string.     
