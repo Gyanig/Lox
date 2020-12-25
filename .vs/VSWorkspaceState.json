@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\craftinginterpreters"
+    "\\src",
+    "\\src\\Lox",
+    "\\src\\tool"
   ],
-  "SelectedNode": "\\craftinginterpreters",
+  "SelectedNode": "\\src\\Lox\\Lox.java",
   "PreviewInSolutionExplorer": false
 }

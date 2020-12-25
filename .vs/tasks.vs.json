@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Lox",
+      "appliesTo": "src/Lox/Lox.java",
+      "type": "launch"
+    }
+  ]
+}

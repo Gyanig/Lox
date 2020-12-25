@@ -296,4 +296,74 @@ that does not discard those? What would it be useful for?
        
        1 2 + 4 3 - *
        Define a visitor class for our syntax tree classes that takes an 
-       expression, converts it to RPN, and returns the resulting string.     
+       expression, converts it to RPN, and returns the resulting string.
+
+##Parsing Expressions
+- What a real parser looks like:
+  - decent error-handling 
+  - coherent integral structure
+  - understand complex syntax
+
+- To go through some compiler design: LALR parser generator 
+                                      Syntax directed translation
+- expressions : literals, unary, binary and grouping
+- now expressions can be based on any rule of solving like BODMAS or direct w/ no precedence
+  - Precedence
+    - determine which operand is evaluated first in an expression
+  - Assosciative 
+    - determines which is evavluated first in a series of the same operator 
+        Name	    Operators   Associates
+        Equality	== !=	    Left
+        Comparison	> >= < <=	Left
+        Term	    - +	        Left
+        Factor	    / *	        Left
+        Unary	    ! -	        Right
+    -   expression     → equality ;
+        equality       → comparison ( ( "!=" | "==" ) comparison )* ;
+        comparison     → term ( ( ">" | ">=" | "<" | "<=" ) term )* ;
+        term           → factor ( ( "-" | "+" ) factor )* ;
+        factor         → unary ( ( "/" | "*" ) unary )* ;
+        unary          → ( "!" | "-" ) unary
+                         | primary ;
+        primary        → NUMBER | STRING | "true" | "false" | "nil"
+                         | "(" expression ")" ;
+  - parsers
+    - LL(k), LR(1), LALR—along with more exotic 
+      beasts like parser combinators, Earley parsers, 
+      the shunting yard algorithm, and packrat parsing.
+        - recursive descent parsing - doesnt required complex parser generator tool: 
+            - Yacc,Bison,ANTLR
+              - gcc 
+              - top-down approach
+            - Equality -> comparison -> addition -> Multiplication -> Unary
+            - Lower precedence                             Higer precedence
+            - terminal , Non terminal , | (if / switch) , * or + (while , ? (if)
+        - equality       → comparison ( ( "!=" | "==" ) comparison )* ;
+           - we zip through a sequence of equality expressions, that creates a 
+            left-associative nested tree of binary operator nodes.
+        - comparison     → term ( ( ">" | ">=" | "<" | "<=" ) term )* ;
+        - unary          → ( "!" | "-" ) unary      | primary ;
+        - primary        → NUMBER | STRING | "true" | "false" | "nil"
+                                  | "(" expression ")" ;
+   ### Syntax error        
+   - A parser really has two jobs:
+        - Given a valid sequence of tokens, produce a corresponding syntax tree.
+        - Given an invalid sequence of tokens, detect any errors and tell the 
+                user about their mistakes.
+    - detect and report errors
+    - must not crash or hang
+    - fast
+    - report many distict errors as there are
+    - minimize cascaded errors 
+    - error recovery
+    - panic mode - synchronization takes place during parsing 
+    - For example, Lox limits the number of arguments you can pass to a 
+    function. If you pass too many, the parser needs to report that error, 
+    but it can and should simply keep on parsing the extra arguments instead 
+    of freaking out and going into panic mode. 
+    - + operator, like +123 doesnt work in LOX . To make it work :
+      - unary          → ( "!" | "-" | "+" ) unary    | primary ;
+    - 
+
+
+
