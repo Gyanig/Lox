@@ -132,10 +132,10 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/Gyanig/Lox/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Gyanig/Lox.svg?style=for-the-badge
+[forks-url]: https://github.com/Gyanig/Lox/forks
+[stars-shield]: https://img.shields.io/github/stars/Gyanig/Lox.svg?style=for-the-badge
 [stars-url]: https://github.com/Gyanig/Lox/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Gyanig/Lox.svg?style=for-the-badge
 [issues-url]: https://github.com/Gyanig/Lox/issues
 
