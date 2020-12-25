@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94ea58e9-df32-4ff0-99de-b576e372b76d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTES.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,10 +244,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="250" y="203" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1605345514455" />
-    <state x="54" y="41" key="search.everywhere.popup" timestamp="1602510277940">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="81" y="92" width="672" height="678" key="search.everywhere.popup" timestamp="1608881404560">
+      <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="54" y="41" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1602510277940" />
+    <state x="81" y="92" width="672" height="678" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1608881404560" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lox$GenerateAst__1_.ic" NAME="GenerateAst (1) Coverage Results" MODIFIED="1602598990374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
