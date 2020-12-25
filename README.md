@@ -21,6 +21,8 @@ Building an Interpreter using Java to support Hindi language.
 - maybe build a text editor to support syntax and debugging (next)
 - Build from cmake also
 
+This project started as a learning from [craftinginterpreter](https://http://www.craftinginterpreters.com). Later, I started implementing my own ideas about adding Indian language text support.
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -56,6 +58,7 @@ There is a lot of the interpreter missing like the writing the control flow, all
 - Parsing 
 - Static and Dynamic Typing 
 - Control Flow
+- Hindi Langauge support
 - Function
 - Classes
 - Debugging
