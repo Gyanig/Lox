@@ -1,29 +1,23 @@
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 <br />
 
   <p align="center">
     <br />
-    <a href="https://github.com/Gyanig/Lox"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Gyanig/Lox/NOTES.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Gyanig/Lox">View Demo</a>
     ·
-    <a href="https://github.com/Gyanig/Lox">Report Bug</a>
-    ·
-    <a href="https://github.com/Gyanig/Lox">Request Feature</a>
+    <a href="https://github.com/Gyanig/Lox/issues">Report Bug</a>
   </p>
 
-# Project Title
+# LOX : Interpreter with Indian Text support
 
-Building a Interpreter using Java to support Hindi language.
+Building an Interpreter using Java to support Hindi language.
 - Add support for Indian Language words as Syntax
-- improve on basic Interpreter desgin
+- improve on basic Interpreter design
 - maybe build a text editor to support syntax and debugging (next)
 - Build from cmake also
 
@@ -131,7 +125,6 @@ Please read [CONTRIBUTING.md](https://github.com/Gyanig/Lox/CONTRIBUTING.md) for
 ## Authors
 
 * **Gyanig Kumar** - *Initial work* - [Developer](https://github.com/Gyanig)
-
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 - Currently none
 
@@ -139,15 +132,10 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Gyanig/Lox/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/Gyanig/Lox/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/Gyanig/Lox/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/Gyanig/Lox/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/Gyanig/Lox/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Gyanig
+
